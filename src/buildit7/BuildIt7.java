@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package buildit8;
+package buildit7;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -23,7 +23,7 @@ import java.util.Scanner;
  *
  * @author Len Payne <len.payne@lambtoncollege.ca>
  */
-public class BuildIt8 {
+public class BuildIt7 {
 
     /**
      * @param args the command line arguments
